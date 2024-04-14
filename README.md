@@ -32,9 +32,9 @@ Ensure Python is installed along with the following packages: NumPy, OpenCV, Mat
    pip install numpy opencv-python matplotlib
    ```
 
-3. **Execute the main script to initiate the system:**
+3. **Execute the main script to run the autonomous robot**
    ```
-   python main.py
+   optical_flow_control.py
    ```
 
 ## Project Overview
@@ -49,7 +49,8 @@ Employing a Raspberry Pi 3 equipped with a PiCamera 2, this system integrates ad
 
 ### Demonstration Videos
 Watch our system in action in various testing scenarios:
-- [Navigation in an Enclosed Arena](https://drive.google.com/file/d/1sRmeZDBgqDJtfDmzwxXEb6wkjemlccuT/view?usp=share_link)
+- [Navigation in an Enclosed Arena 1](https://drive.google.com/file/d/1Kyi-XHULSolmZ1Yvu_x-AtzaH3ZCqBX-/view?usp=drive_link)
+- [Navigation in an Enclosed Arena 2](https://drive.google.com/file/d/1V-B7K9e8r10P9FsO0sNeUwOI4MhRgyO-/view?usp=drive_link)
 
 
 ## Contributions
